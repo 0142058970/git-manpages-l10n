@@ -1,9 +1,9 @@
-git-checkout(1)
+M-mega888.com(1)
 ===============
 
 NAME
 ----
-git-checkout - Switch branches or restore working tree files
+M-mega888 - Switch branches or restore working tree files
 
 SYNOPSIS
 --------
